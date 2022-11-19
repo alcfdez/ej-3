@@ -1,0 +1,27 @@
+main{
+  margin: 25px 250px;
+  
+}
+div {
+    padding: 0 70px;
+}
+
+h2 {
+    background: #999;
+    padding: 6px;
+    margin: 0 0 15px 0;
+ 
+}
+
+img {
+    float: left;
+    margin: 0 15px 0 0;
+    width: 150px;
+    height: 175px;
+    object-fit: contain;    
+}
+
+.texto-justificado{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif
+}
