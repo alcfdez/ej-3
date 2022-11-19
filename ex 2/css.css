@@ -1,6 +1,92 @@
+body{
+    background-image: url("assets/img/fondo.jpg");
+}
+
 h1{
     color: black;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: bolder;
+    font-size: 50px;
+}
+
+img{
+    display: block;
+    padding-left: 300px;
+}
+
+.colores1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-stretch: wider;
+    padding: 0 175px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-content:stretch;
+    letter-spacing: 2px;
+    justify-content: space-around;
+    
+}
+
+.colores2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-stretch: wider;
+    padding: 0 175px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-content:stretch;
+    letter-spacing: 2px;   
+    justify-content: space-around;
+}
+
+#black{
+    color:black;
+}
+#teal{
+    color:teal;
+}
+#blue{
+    color:blue;
+}
+#navy{
+    color:navy;
+}
+#lime{
+    color:lime;
+}
+#white{
+    color:white;
+}
+#purple{
+    color:purple;
+}
+#yellow{
+    color:yellow;
+}
+#olive{
+    color:olive;
+}
+#red{
+    color:red;
+}
+#marron{
+    color:brown;
+}
+#gray{
+    color:gray
+}
+#fuchsia{
+    color:fuchsia;
+}
+#green{
+    color: green;
+}
+#aqua{
+    color: aqua;
+}
+#silver{
+    color:silver;
 }
